@@ -9,8 +9,8 @@ Install `uv` by following the instructions at https://docs.astral.sh/uv/getting-
 Clone this repository:
 
 ```sh
-git clone git@github.com:cgnd/docs.cgnd.dev.git
-cd docs.cgnd.dev/
+git clone git@github.com:cgnd/docs.git
+cd docs/
 ```
 
 Create a Python virtual environment:
