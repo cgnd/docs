@@ -6,3 +6,10 @@ site_name: Common Ground Electronics Docs
 site_url: https://docs.cgnd.dev
 theme:
   name: material
+  palette:
+    primary: white
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/images/favicon-32x32.png
+  logo: assets/images/logo.svg
