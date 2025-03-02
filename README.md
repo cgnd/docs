@@ -35,5 +35,5 @@ uv pip install -r dev-requirements.txt
 Run the builtin development server:
 
 ```sh
-mkdocs serve
+inv preview
 ```

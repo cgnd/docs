@@ -2,5 +2,6 @@
 #
 # SPDX-License-Identifier: MIT OR Apache-2.0
 
+invoke
 # Make sure this version stays in sync with pre-commit-config.yaml
 reuse==5.0.2
