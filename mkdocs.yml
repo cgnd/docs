@@ -14,8 +14,8 @@ theme:
   favicon: assets/images/favicon-32x32.png
   logo: assets/images/logo.svg
   features:
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     - navigation.tracking
 extra:
   homepage: https://cgnd.dev
