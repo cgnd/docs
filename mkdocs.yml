@@ -21,3 +21,6 @@ extra:
   homepage: https://cgnd.dev
 extra_css:
   - assets/stylesheets/extra.css
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
