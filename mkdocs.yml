@@ -4,6 +4,7 @@
 
 site_name: Common Ground Electronics Docs
 site_url: https://docs.cgnd.dev
+copyright: Copyright &copy; Common Ground Electronics
 theme:
   name: material
   palette:
