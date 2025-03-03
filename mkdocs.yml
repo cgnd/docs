@@ -42,6 +42,18 @@ theme:
     - navigation.tracking
 extra:
   homepage: https://cgnd.dev
+  generator: false
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/cgnd
+    - icon: fontawesome/brands/bluesky
+      link: https://bsky.app/profile/cgnd.dev
+    - icon: fontawesome/brands/mastodon
+      link: https://mastodon.social/@cgnd
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/cgndelectronics
+    - icon: fontawesome/brands/linkedin
+      link: https://linkedin.com/company/common-ground-electronics
 extra_css:
   - assets/stylesheets/extra.css
 plugins:
