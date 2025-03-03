@@ -20,7 +20,7 @@ def preview(
     context,
     # 0.0.0.0 enables preview from other devices (e.g. mobile devices) on the
     # same network.
-    dev_addr="0.0.0.0:8000",  # nosec
+    dev_addr="0.0.0.0:8001",  # nosec
     open=True,
 ):
     cmd = " ".join(
